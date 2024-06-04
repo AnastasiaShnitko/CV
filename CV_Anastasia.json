@@ -1,0 +1,132 @@
+{
+    "name": "Anastasia",
+    "lastName": "Shnitko",
+    "education": [{
+        "name": "BNTU",
+        "graduationYear": 2022,
+        "specialization": "programmer"
+    }],
+    "location": "Minsk",
+    "hobbies": [
+        "heartstone", "pazzles", "japaneseCrosswords", "2/3dModeling", "logicGames", "psychology", "billard"
+    ],
+    "softSkills": [
+        "adaptability", "punctual", "communication", "criticalThinking", "empathy", "culturalCompetence", "flexibility"
+    ],
+    "hardSkills": [{
+            "name": "SQL",
+            "level": "intermediate",
+            "details": ["DBMSMySQL", "creatingJoin",
+                "aggregateFunctions", "creatingViews"
+            ],
+            "link": "https://github.com/AnastasiaShnitko/SQL"
+        },
+        {
+            "name": "HTML",
+            "level": "intermediate",
+            "details": ["creatingMulti-pageWebsires", "anchorLinks",
+                "lists", "tables"
+            ],
+            "link": ""
+        },
+        {
+            "name": "CSS",
+            "level": "intermediate",
+            "details": [],
+            "link": ""
+        },
+        {
+            "name": "JavaScript",
+            "level": "beginner",
+            "details": ["buttonAnimation"],
+            "link": ""
+        },
+        {
+            "name": "Testing",
+            "level": "intermediate",
+            "details": ["creatingTestCases", "creatingBugReports", "creatingCheckLists", "manualTesting"],
+            "link": "https://github.com/AnastasiaShnitko/Test_Documentation"
+        },
+        {
+            "name": "Git",
+            "level": "beginner",
+            "details": ["pushTheFileToGit"],
+            "link": "https://github.com/AnastasiaShnitko"
+        }
+    ],
+    "workExperience": [{
+        "organisation": "The main information and analytical center of the Ministry of Education",
+        "position": "programmer",
+        "duties": ["maintainingDB", "supporingtDb", "testing", "maintainingDocs"],
+        "beginnig": "13.10.2021",
+        "ending": "31.07.2024"
+    }],
+    "courses": [{
+            "name": "SoftwareTesting",
+            "organisation": "BelhardAcademy",
+            "level": "professional",
+            "beginning": [{
+                "month": "May",
+                "day": 16,
+                "year": 2024
+            }],
+            "ending": [{
+                "month": "June",
+                "day": 25,
+                "year": 2024
+            }]
+        },
+        {
+            "name": "GeneralEnglish",
+            "organisation": "Streamline",
+            "level": "A2",
+            "beginning": [{
+                "month": "October",
+                "day": 20,
+                "year": 2019
+            }],
+            "ending": [{
+                "month": "July",
+                "day": 15,
+                "year": 2020
+            }]
+        },
+        {
+            "courses": [{
+                "name": "3dMoll",
+                "level": "beginndeling",
+                "organisation": "Diskier",
+                "beginning": [{
+                    "month": "January",
+                    "day": 15,
+                    "year": 2023
+                }],
+                "ending": [{
+                    "month": "January",
+                    "day": 18,
+                    "year": 2023
+                }]
+            }]
+        }
+    ],
+    "contacts": [{
+            "name": "phoneNumber",
+            "value": "777 77 777 77 77"
+        },
+        {
+            "name": "e-mail",
+            "value": "anastasiashnitko2021@gmail.com"
+        }
+    ],
+    "certificates": [{
+            "name": "GeneralEnglish",
+            "organisation": "Streamline",
+            "date": "15.07.2020"
+        },
+        {
+            "name": "3dModeling",
+            "organisation": "Diskill",
+            "date": "18.01.2023"
+        }
+    ]
+}
